@@ -4,7 +4,25 @@
 
 ## Installation
 
+Browserify/NPM
+
+```sh
+    $ npm install --save gm-parse-duration
+```
+
+```js
+  var parse = require('gm-parse-duration');
+```
+
+Component
+
+```sh
     $ component install charlottegore/parse-duration
+```
+
+```js
+  var parse = require('parse-duration');
+```
 
 ## API
 

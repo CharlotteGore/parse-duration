@@ -2,7 +2,7 @@
   "name": "parse-duration",
   "repo": "charlottegore/parse-duration",
   "description": "Parses duration strings into milliseconds",
-  "version": "0.0.1",
+  "version": "1.0.2",
   "keywords": [],
   "dependencies": {
     "manuelstofer/is" : "*"
