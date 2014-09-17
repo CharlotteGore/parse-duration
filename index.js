@@ -1,4 +1,4 @@
-var is = require('is');
+var is = require('gm-is');
 
 var parseTime = function( time ){
 
